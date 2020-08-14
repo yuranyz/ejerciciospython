@@ -1,0 +1,6 @@
+totinv=float(input("ingrese el total invertido"))
+print("ahora vas a ingresar el invertido por cada uno de las tres personas, deben sumar el total invertido")
+inv1=float(input("ingrese la inversion 1"))
+inv2=float(input("ingrese la inversion 2"))
+inv3=float(input("ingrese la inversion 3"))
+print("el porcentaje de la inversion 1 es: ",(inv1*100)/totinv)
